@@ -11,3 +11,5 @@ The Windmill is a library providing Object/Relational Mapping (ORM) support to a
 * Caching
 * Validation
 * Auditing
+* supported java 8 and 11
+* supported JPA 2.2
